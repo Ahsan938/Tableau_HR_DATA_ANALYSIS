@@ -1,6 +1,4 @@
 
-![Uploading image.png…]()
-
 # Tableau_HR_DATA_ANALYSIS
 The HR analysis on employee attrition has revealed crucial findings regarding the organization's overall attrition rate of 16.12%. A detailed examination exposed that the technology department bears the highest attrition at 56.12%, followed by the sales department at 38.82%. Notably, data scientists and software engineers emerged as dissatisfied groups within the organization.
 
@@ -8,7 +6,7 @@ Among the 237 employees who left, a considerable portion belonged to younger age
 
 These insights underscore the need for targeted efforts in the technology department, emphasizing the importance of understanding the discontent among data scientists and software engineers. Conducting surveys, interviews, or focus groups with employees in these roles can provide valuable insights.
 
-For younger age groups (18-24 and 25-34), it is imperative to investigate the factors influencing their decision to leave. Implementing strategies such as mentorship programs, skill development opportunities, and initiatives that enhance work-life balance can contribute to increased job satisfaction and retention among younger employees. Additionally, introducing employee support programs may help address attrition concerns within these age groups.
+For younger age groups (18-24 and 25-34), it is imperative to investigate the factors influencing their decision to leave. Implementing strategies such as mentorship programs, skill development opportunities, and initiatives that enhance work-life balance can contribute to increased job satisfaction and retention among younger employees. Additionally, introducing employee support programs may help address attrition concerns within these age groups...
 
 
 
