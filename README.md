@@ -1,3 +1,6 @@
+
+![Uploading image.png…]()
+
 # Tableau_HR_DATA_ANALYSIS
 The HR analysis on employee attrition has revealed crucial findings regarding the organization's overall attrition rate of 16.12%. A detailed examination exposed that the technology department bears the highest attrition at 56.12%, followed by the sales department at 38.82%. Notably, data scientists and software engineers emerged as dissatisfied groups within the organization.
 
